@@ -28,4 +28,3 @@ func output(name: String, age: Int) -> Bool {
 output()
 output(name: "Abubakr")
 var bDay = output(name: "Abubakr", age:20)
-
