@@ -1,8 +1,11 @@
 import UIKit
 
 /*
- Overloading functions
- */
+  Overloading functions
+
+Function overloading is mostly used to create several functions that has same name to perform similar task but on different number of arguments or types of parameters.
+
+*/
 
 // Create a base function
 // Create an oveloaded function with a string parameter
