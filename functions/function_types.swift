@@ -1,7 +1,10 @@
 import UIKit
 
 /*
- Function Types
+   Function Types
+ 
+Every function has a specific function type or unique signature made up of the parameter types and the return type of the function.
+
  */
 
 //Create a function that takes in an integer, add a + b and returns it
