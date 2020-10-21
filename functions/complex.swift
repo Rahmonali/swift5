@@ -1,7 +1,10 @@
 import UIKit
 
 /*
-Complex Function
+    Complex Function
+    
+    Functions in Swift can go from simple to complex very quickly with multiple return types, optionals and even default values 
+
  */
 
 // Create a new function with an optional return type
